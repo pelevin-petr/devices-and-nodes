@@ -6,7 +6,7 @@
 
 ```bash
 git clone https://github.com/pelevin-petr/devices-and-nodes/tree/dev
-cd ParkGorkStorageAPI
+cd devices-and-nodes
 ```
 
 ### Install Dependencies:
