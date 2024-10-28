@@ -21,4 +21,4 @@ npm install
 npm run dev
 ```
 
-#### Also, you can just open this "Editor" by link:   
+#### Also, you can just open this "Editor" by link: https://pelevin-petr.github.io/devices-and-nodes/
