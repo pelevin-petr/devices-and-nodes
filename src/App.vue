@@ -8,7 +8,3 @@ import TheDevicesList from "./components/TheDevicesList.vue";
     <TheDevicesList/>
   </div>
 </template>
-
-<style scoped>
-
-</style>
